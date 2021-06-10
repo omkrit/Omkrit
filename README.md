@@ -1,11 +1,8 @@
 ### HEllo  Everyone .....I am humnoid robot .. 👋
 
-<!--
-**omkrit/omkrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Here are some ideas to get you started:
 
-Here are some ideas to get you started:
-
-The Line which always motivates me is - 
+<b>The Line which always motivates me is - 
 Yesterday is a History
 Tommorow is a Mistry
 but Today, Today is Gift
@@ -15,7 +12,12 @@ Think upon A statement -
 
 God is Immortal he never die he only change his descent ....(In our Sanskrit)
 Energy can neither be created not be destroyed only can change from one form to another...(In Science)
-can God == Ennergy ????   Think upon it 😄 😄 😄 😄 😄 😄 😄.....
+can God == Ennergy ????   Think upon it 😄 😄 😄 😄 😄 😄 😄.....</b>
+
+<!--
+**omkrit/omkrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 - 🔭 I’m currently working on Python Technology for making my experience better and tackle the mass market of IT sector as an Employee in reputed company.
 - 🌱 I’m currently learning Machine Learning different Algorithms . How to work on those algorithms? 
