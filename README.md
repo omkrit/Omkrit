@@ -14,9 +14,6 @@ God is Immortal he never die he only change his descent ....(In our Sanskrit)
 Energy can neither be created not be destroyed only can change from one form to another...(In Science)
 can God == Ennergy ????   Think upon it 😄 😄 😄 😄 😄 😄 😄.....</b>
 
-<!--
-**omkrit/omkrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 - 🔭 I’m currently working on Python Technology for making my experience better and tackle the mass market of IT sector as an Employee in reputed company.
@@ -28,3 +25,6 @@ can God == Ennergy ????   Think upon it 😄 😄 😄 😄 😄 😄 😄.....<
 - 😄 Pronouns: Omii...
 - ⚡ Fun fact:  I am cool deep thinker and always up for the quick discussion related to the future aspact future technology.
 -->
+<!--
+**omkrit/omkrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
