@@ -19,9 +19,9 @@ can God == Ennergy ????   Think upon it 😄 😄 😄 😄 😄 😄 😄.....<
 - 🔭 I’m currently working on Python Technology for making my experience better and tackle the mass market of IT sector as an Employee in reputed company.
 - 🌱 I’m currently learning Machine Learning different Algorithms . How to work on those algorithms? 
 - 👯 I’m looking to collaborate on Github community as a campus leader
-- 🤔 I’m looking for help with my knowledge to the every suffering student eho seek help in learning.
+- 🤔 I’m looking for help in understanding the deep insides of Artificial Intelligence concepts and search analysis.
 - 💬 Ask me about Python , C++, C, MySQL, Data Science, Machine Learning, Artificia Intelligence
-- 📫 How to reach me: 
+- 📫 How to reach me: AI, ML, Data Science and Python new concepts.
 - 😄 Pronouns: Omii...
 - ⚡ Fun fact:  I am cool deep thinker and always up for the quick discussion related to the future aspact future technology.
 -->
